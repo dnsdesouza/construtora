@@ -21,8 +21,7 @@ public class Principal {
 		meuFilme.avalia(7);
 		
 		
-		System.out.println("Soma das avaliacoes
-		: "+meuFilme.somaDasAvaliacoes);
+		System.out.println("Soma das avaliacoes: "+meuFilme.somaDasAvaliacoes);
 		System.out.println("Total das avalia��es: "+meuFilme.totalDeAvaliacoes);
 		System.out.println("M�dia de aval��o: "+meuFilme.cauculaMedia());
 		
